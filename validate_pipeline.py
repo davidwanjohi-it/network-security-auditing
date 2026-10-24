@@ -17,11 +17,11 @@ SPLUNK_HOST = "10.0.2.10"
 SPLUNK_PORT = 9997
 MYSQL_HOST = "10.0.2.10"
 MYSQL_USER = "jdoe"
-MYSQL_PASS = "SecurePassword123!"
+MYSQL_PASS = "[REDACTED_FOR_SECURITY]"
 MYSQL_DB = "corporate_records"
 
-JIRA_URL = "https://atlassian.net"
-JIRA_EMAIL = "davidjk13b@gmail.com"
+JIRA_URL = "[REDACTED_FOR_SECURITY]"
+JIRA_EMAIL = "[REDACTED_FOR_SECURITY]"
 JIRA_TOKEN = "ATATT3xFfGF0i54dzCOxpVzTd0Xvy...[REDACTED_FOR_SECURITY]" 
 
 def test_network_socket(host, port, service_name):
