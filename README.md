@@ -163,7 +163,7 @@ To restore the laboratory nodes to their pristine, untampered baseline:
 
 ================================================================================================================
 # DevSecOps & Security Engineering Lab — Infrastructure, SIEM & Automation
-## Author: David Wan (Independent Architecture & Implementation Platform)
+## Author: David Wanjohi (Independent Architecture & Implementation Platform)
 
 A highly scalable, multi-component Security Engineering platform built inside an isolated Oracle VirtualBox hypervisor network segment. This project houses an enterprise real-time event correlation framework monitoring critical endpoint telemetry, parsing structured data pipelines into a native Splunk SIEM engine, and deploying programmatic Python/Modular webhook automations to orchestrate instant incident lifecycle tracks on an Atlassian Jira Cloud dashboard.
 
